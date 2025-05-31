@@ -1,5 +1,5 @@
 import React from 'react';
-import { Github, Linkedin, Mail, Globe, MapPin } from 'lucide-react';
+import { Github, Linkedin, Mail, Globe, MapPin, Telescope, Flag, TableCellsMerge, Send } from 'lucide-react';
 
 function App() {
   return (
@@ -10,7 +10,7 @@ function App() {
           <img 
             src="https://images.pexels.com/photos/1714208/pexels-photo-1714208.jpeg"
             alt="Modern computer setup"
-            className="w-full h-full object-cover opacity-60 contrast-125 brightness-110 saturate-110"
+            className="w-full h-full object-cover opacity-100 contrast-125 brightness-110 saturate-110"
           />
         </div>
         <div className="absolute inset-0 bg-gradient-to-b from-gray-100/60 to-gray-100/40"></div>
@@ -27,7 +27,6 @@ function App() {
       {/* Tech Stack Logos */}
       <div className="py-12 bg-white/80 backdrop-blur-sm shadow-md">
         <div className="max-w-6xl mx-auto px-8">
-          <h3 className="text-2xl font-bold text-center mb-8 text-gray-800">Tech Stack</h3>
           <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 lg:grid-cols-6 gap-8">
             <TechLogo
               imgUrl="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
@@ -100,15 +99,19 @@ function App() {
             <a href="https://github.com/your-github" className="text-gray-600 hover:text-blue-600 transition-colors">
               <Github size={24} />
             </a>
-            <a href="https://linkedin.com/in/your-linkedin" className="text-gray-600 hover:text-blue-600 transition-colors">
+            <a href="www.linkedin.com/in/ivan-tereshchenko-114593284" className="text-gray-600 hover:text-blue-600 transition-colors">
               <Linkedin size={24} />
             </a>
-            <a href="mailto:your-email@example.com" className="text-gray-600 hover:text-blue-600 transition-colors">
+            <a href="mailto:asdsdduazusd@gmail.com" className="text-gray-600 hover:text-blue-600 transition-colors">
               <Mail size={24} />
             </a>
-            <a href="https://yourwebsite.com" className="text-gray-600 hover:text-blue-600 transition-colors">
+            <a href="https://dreamhighportfolio.netlify.app/" className="text-gray-600 hover:text-blue-600 transition-colors">
               <Globe size={24} />
             </a>
+            <a href="https://web.telegram.org/k/#@Ivan_Freelancer" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-blue-400 transition-colors">
+              <Send className="w-6 h-6" />
+            </a>
+
           </div>
 
           {/* About Section */}

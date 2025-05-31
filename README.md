@@ -137,8 +137,8 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 <div align="center">
 
-**✉️ Contact me at: [your-email@example.com](mailto:your-email@example.com)**  
-**💼 Portfolio: [yourwebsite.com](https://yourwebsite.com)**
+**✉️ Contact me at: [your-email@example.com](mailto:asdsdduazusd@gmail.com)**  
+**💼 Portfolio: [yourwebsite.com](https://dreamhighportfolio.netlify.app/)**
 
 </div>
 
