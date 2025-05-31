@@ -1,149 +1,190 @@
-# <div align="center">👋 Hi, I'm Ivan Tereshchenko</div>
+<div className="min-h-screen bg-gray-100">
+      {/* Hero Section with Computer Background */}
+      <div className="relative h-[70vh] overflow-hidden mb-8">
+        <div className="absolute inset-0">
+          <img 
+            src="https://images.pexels.com/photos/1714208/pexels-photo-1714208.jpeg"
+            alt="Modern computer setup"
+            className="w-full h-full object-cover opacity-100 contrast-125 brightness-110 saturate-110"
+          />
+        </div>
+        <div className="absolute inset-0 bg-gradient-to-b from-gray-100/60 to-gray-100/40"></div>
+        <div className="relative h-full flex items-center justify-center text-center px-4">
+          <div className="bg-white/80 backdrop-blur-sm p-8 rounded-2xl shadow-lg">
+            <h1 className="text-4xl md:text-6xl font-bold mb-4 text-gray-800">
+             CMS & AI Integration Specialist<br/>⭐ Full-Stack Developer ⭐
+            </h1>
 
-<div align="center">
-  <h3>CMS & AI Integration Specialist | Full-Stack Developer</h3>
-  <p><em>Building intelligent digital experiences from Nikopol, Ukraine 🇺🇦</em></p>
-</div>
+          </div>
+        </div>
+      </div>
 
-<br>
+      {/* Tech Stack Logos */}
+      <div className="py-12 bg-white/80 backdrop-blur-sm shadow-md">
+        <div className="max-w-6xl mx-auto px-8">
+          <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 lg:grid-cols-6 gap-8">
+            <TechLogo
+              imgUrl="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+              name="React"
+            />
+            <TechLogo
+              imgUrl="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+              name="Vue.js"
+            />
+            <TechLogo
+              imgUrl="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
+              name="Angular"
+            />
+            <TechLogo
+              imgUrl="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+              name="TypeScript"
+            />
+            <TechLogo
+              imgUrl="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+              name="JavaScript"
+            />
+            <TechLogo
+              imgUrl="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+              name="HTML5"
+            />
+            <TechLogo
+              imgUrl="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+              name="CSS3"
+            />
+            <TechLogo
+              imgUrl="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"
+              name="WordPress"
+            />
+            <TechLogo
+              imgUrl="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+              name="Node.js"
+            />
+            <TechLogo
+              imgUrl="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+              name="Express"
+            />
+            <TechLogo
+              imgUrl="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"
+              name="PHP"
+            />
+            <TechLogo
+              imgUrl="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg"
+              name="CodeIgniter"
+            />
+            <TechLogo
+              imgUrl="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+              name="MySQL"
+            />
+            <TechLogo
+              imgUrl="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+              name="MongoDB"
+            />
+            <TechLogo
+              imgUrl="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
+              name="AI Integration"
+            />
+          </div>
+        </div>
+      </div>
 
-<p align="center">
-  <a href="www.linkedin.com/in/ivan-tereshchenko-114593284"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/dreamhighcodestar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:asdsdduazusd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+      <div className="p-8">
+        <div className="max-w-4xl mx-auto">
+          {/* Social Links */}
+          <div className="flex justify-center gap-6 mb-12">
+            <a href="https://github.com/your-github" className="text-gray-600 hover:text-blue-600 transition-colors">
+              <Github size={24} />
+            </a>
+            <a href="www.linkedin.com/in/ivan-tereshchenko-114593284" className="text-gray-600 hover:text-blue-600 transition-colors">
+              <Linkedin size={24} />
+            </a>
+            <a href="mailto:asdsdduazusd@gmail.com" className="text-gray-600 hover:text-blue-600 transition-colors">
+              <Mail size={24} />
+            </a>
+            <a href="https://dreamhighportfolio.netlify.app/" className="text-gray-600 hover:text-blue-600 transition-colors">
+              <Globe size={24} />
+            </a>
+            <a href="https://web.telegram.org/k/#@Ivan_Freelancer" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-blue-400 transition-colors">
+              <Send className="w-6 h-6" />
+            </a>
 
-## 💼 What I Do
+          </div>
 
-With **7+ years of experience**, I craft intelligent digital solutions that combine robust development practices with cutting-edge AI capabilities. My expertise lies at the intersection of content management systems, modern web development, and artificial intelligence integration.
+          {/* About Section */}
+          <div className="bg-white rounded-lg p-6 mb-8 shadow-lg">
+            <h3 className="text-2xl font-bold mb-4 text-gray-800">💼 What I Do</h3>
+            <p className="text-gray-600 leading-relaxed">
+              With 7+ years of experience, I craft intelligent digital solutions that combine robust development practices 
+              with cutting-edge AI capabilities. My expertise lies at the intersection of content management systems, 
+              modern web development, and artificial intelligence integration.
+            </p>
+            <blockquote className="border-l-4 border-blue-600 pl-4 mt-4 italic text-gray-600">
+              "I don't just build websites – I create intelligent digital ecosystems that grow with your business."
+            </blockquote>
+          </div>
 
-> *"I don't just build websites – I create intelligent digital ecosystems that grow with your business."*
+          {/* Expertise Grid */}
+          <div className="grid md:grid-cols-2 gap-6 mb-8">
+            <ExpertiseCard
+              title="📊 CMS Development"
+              items={[
+                "WordPress & WooCommerce customization",
+                "Headless CMS architecture (Strapi)",
+                "Custom themes and plugins",
+                "Shopify & Magento development",
+                "Performance optimization"
+              ]}
+            />
+            <ExpertiseCard
+              title="🧠 AI Integration"
+              items={[
+                "GPT-powered content generators",
+                "AI chatbots & customer support",
+                "Content recommendation engines",
+                "Automated product descriptions",
+                "Intelligent search capabilities"
+              ]}
+            />
+            <ExpertiseCard
+              title="💻 Modern Front-End"
+              items={[
+                "React/Next.js applications",
+                "Vue.js/Nuxt.js interfaces",
+                "Responsive, accessible UIs",
+                "Performance-optimized SPAs",
+                "Animation & micro-interactions"
+              ]}
+            />
+            <ExpertiseCard
+              title="⚙️ Scalable Back-End"
+              items={[
+                "Node.js (Express, NestJS) APIs",
+                "Database architecture & optimization",
+                "Authentication & security systems",
+                "API integrations & microservices",
+                "Performance monitoring & scaling"
+              ]}
+            />
+          </div>
 
-<br>
-
-## 🚀 Expertise
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📊 CMS Development</h3>
-      <ul>
-        <li>WordPress & WooCommerce customization</li>
-        <li>Headless CMS architecture (Strapi)</li>
-        <li>Custom themes and plugins</li>
-        <li>Shopify & Magento development</li>
-        <li>Performance optimization</li>
-      </ul>
-      <h3>🧠 AI Integration</h3>
-      <ul>
-        <li>GPT-powered content generators</li>
-        <li>AI chatbots & customer support</li>
-        <li>Content recommendation engines</li>
-        <li>Automated product descriptions</li>
-        <li>Intelligent search capabilities</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💻 Modern Front-End</h3>
-      <ul>
-        <li>React/Next.js applications</li>
-        <li>Vue.js/Nuxt.js interfaces</li>
-        <li>Responsive, accessible UIs</li>
-        <li>Performance-optimized SPAs</li>
-        <li>Animation & micro-interactions</li>
-      </ul>
-      <h3>⚙️ Scalable Back-End</h3>
-      <ul>
-        <li>Node.js (Express, NestJS) APIs</li>
-        <li>Database architecture & optimization</li>
-        <li>Authentication & security systems</li>
-        <li>API integrations & microservices</li>
-        <li>Performance monitoring & scaling</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-## 🧰 Tech Stack
-
-<div align="center">
-
-  **Front-End**<br>
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-  ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  
-  **Back-End**<br>
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-  
-  **CMS & E-Commerce**<br>
-  ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-  ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
-  ![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
-  ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
-  ![Magento](https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white)
-  
-  **Databases & Tools**<br>
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-</div>
-
-<br>
-
-## 🔧 Services I Offer
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <h3>🔷 CMS & E-Commerce</h3>
-        <p>Custom WordPress/Shopify development with optimized themes, plugins, and performance tuning.</p>
-      </td>
-      <td align="center">
-        <h3>🧠 AI Integration</h3>
-        <p>Implement GPT-powered content tools, chatbots, and recommendation engines.</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <h3>🖥️ Web Applications</h3>
-        <p>Full-stack web apps with React/Vue/Node and responsive, accessible UIs.</p>
-      </td>
-      <td align="center">
-        <h3>🔐 Security & Optimization</h3>
-        <p>Site hardening, performance tuning, and SEO optimization for existing sites.</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-## 🤝 Let's Work Together
-
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
-
-<div align="center">
-
-**✉️ Contact me at: [your-email@example.com](mailto:asdsdduazusd@gmail.com)**  
-**💼 Portfolio: [yourwebsite.com](https://dreamhighportfolio.netlify.app/)**
-
-</div>
-
-<hr>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Profile views"/>
-</div>
+          {/* Services Section */}
+          <div className="grid md:grid-cols-2 gap-6">
+            <ServiceCard
+              title="🔷 CMS & E-Commerce"
+              description="Custom WordPress/Shopify development with optimized themes, plugins, and performance tuning."
+            />
+            <ServiceCard
+              title="🧠 AI Integration"
+              description="Implement GPT-powered content tools, chatbots, and recommendation engines."
+            />
+            <ServiceCard
+              title="🖥️ Web Applications"
+              description="Full-stack web apps with React/Vue/Node and responsive, accessible UIs."
+            />
+            <ServiceCard
+              title="🔐 Security & Optimization"
+              description="Site hardening, performance tuning, and SEO optimization for existing sites."
+            />
+          </div>
+        </div>
+      </div>
+    </div>
