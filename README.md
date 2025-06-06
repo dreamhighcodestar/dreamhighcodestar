@@ -1,9 +1,6 @@
-# 💻 Full Stack Developer & Technology Expert
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9FFF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+%26+Automation+Specialist;CMS+%26+E-Commerce+Expert;Database+Architect" alt="Typing SVG" />
 
----
 <div align="center">
   <img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" >
 </div>
@@ -14,7 +11,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dreamhighcodestar&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dreamhighcodestar&theme=nord_dark)
 
-## 🛠️ Languages and Tools
 <table><tr><td valign="top" width="33%">
 
 ### 🎨 Frontend Development
@@ -28,7 +24,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="48" height="48" alt="Nuxt.js" />
       <img src="https://github.com/tailwindlabs.png?size=40" width="48" height="48" alt="Tailwind CSS" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" height="48" alt="Sass" />
-      <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="48" height="48" alt="Styled Components" />
 </div>
 
 
@@ -64,11 +59,11 @@
 <div align="center">  
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="48" height="48" alt="WordPress" />
       <img src="https://woocommerce.com/wp-content/themes/woo/images/logo-woocommerce@2x.png" width="48" height="48" alt="WooCommerce" />
-      <img src="https://upload.wikimedia.org/wikipedia/en/f/f7/Joomla-Logo.svg" width="48" height="48" alt="Joomla" />
+      <img src="https://github.com/joomla.png?size=40" width="48" height="48" alt="Joomla" />
       <img src="https://strapi.io/assets/strapi-logo-light.svg" width="48" height="48" alt="Strapi" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" width="48" height="48" alt="Shopify" />
+      <img src="https://github.com/Shopify.png?size=40" width="48" height="48" alt="Shopify" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Magento_Logo.svg" width="48" height="48" alt="Magento" />
-      <img src="https://www.bigcommerce.com/assets/images/bc-logo.svg" width="48" height="48" alt="BigCommerce" />
+      <img src="https://github.com/bigcommerce.png?size=40" width="48" height="48" alt="BigCommerce" />
 </div>
 
 
@@ -87,13 +82,13 @@
 ### 🛠️ Tools & Development Platforms
 
 <div align="center">  
-      <img src="https://ps.w.org/elementor/assets/icon-256x256.png" width="48" height="48" alt="Elementor" />
-      <img src="https://wp-rocket.me/wp-content/uploads/2019/07/logo-WP-Rocket-icon.svg" width="48" height="48" alt="WP Rocket" />
+      <img src="https://github.com/elementor.png?size=40" width="48" height="48" alt="Elementor" />
+      <img src="https://github.com/mrmad.png?size=40" width="48" height="48" alt="WP Rocket" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
       <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/vercel/logo.png" width="48" height="48" alt="Vercel" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="48" height="48" alt="Netlify" />
-      <img src="https://yoast.com/app/uploads/2020/09/Yoast_Icon_Kader_RGB.svg" width="48" height="48" alt="Yoast SEO" />
-      <img src="https://wpml.org/wp-content/uploads/2019/02/cropped-wpml-logo-site-icon-150x150.png" width="48" height="48" alt="WPML" />
+      <img src="https://github.com/Yoast.png?size=40" width="48" height="48" alt="Yoast SEO" />
+      <img src="https://github.com/wp-premium.png?size=40" width="48" height="48" alt="WPML" />
       <img src="https://ps.w.org/contact-form-7/assets/icon-128x128.png" width="48" height="48" alt="Contact Form 7" />
 </div>
 
