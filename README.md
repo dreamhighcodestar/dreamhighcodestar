@@ -36,7 +36,7 @@
       <img src="https://avatars.githubusercontent.com/u/28507035?s=48&v=4" width="48" height="48" alt="NestJS" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
       <img src="https://avatars.githubusercontent.com/u/958072?s=48&v=4" width="48" height="48"  alt="Laravel" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" />
+      <img src="https://github.com/express.png?size=40" width="48" height="48" alt="Express" />
 </div>
 
 </td><td valign="top" width="33%">
@@ -57,12 +57,12 @@
 ### 🛒 CMS & E-Commerce
 
 <div align="center">  
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="48" height="48" alt="WordPress" />
-      <img src="https://woocommerce.com/wp-content/themes/woo/images/logo-woocommerce@2x.png" width="48" height="48" alt="WooCommerce" />
-      <img src="https://github.com/joomla.png?size=40" width="48" height="48" alt="Joomla" />
-      <img src="https://strapi.io/assets/strapi-logo-light.svg" width="48" height="48" alt="Strapi" />
+      <img src="https://github.com/WordPress.png?size=40" width="48" height="48" alt="WordPress" />
       <img src="https://github.com/Shopify.png?size=40" width="48" height="48" alt="Shopify" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Magento_Logo.svg" width="48" height="48" alt="Magento" />
+      <img src="https://github.com/woocommerce.png?size=40" width="48" height="48" alt="WooCommerce" />
+      <img src="https://github.com/joomla.png?size=40" width="48" height="48" alt="Joomla" />
+      <img src="https://github.com/strapi.png?size=40" width="48" height="48" alt="Strapi" />
+      <img src="https://github.com/magento.png?size=40" width="48" height="48" alt="Magento" />
       <img src="https://github.com/bigcommerce.png?size=40" width="48" height="48" alt="BigCommerce" />
 </div>
 
@@ -75,6 +75,9 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="48" height="48" alt="OpenAI GPT-4" />
       <img src="https://cdn-icons-png.flaticon.com/512/8318/8318195.png" width="48" height="48" alt="AI Chat" />
       <img src="https://cdn-icons-png.flaticon.com/512/2040/2040946.png" width="48" height="48" alt="Automation" />
+      <img src="https://github.com/n8n-io.png?size=40" width="48" height="48" alt="Automation" />
+      <img src="https://github.com/zapier.png?size=40" width="48" height="48" alt="Automation" />
+      <img src="https://github.com/integromat.png?size=40" width="48" height="48" alt="Automation" />
 </div>
 
 </td><td valign="top" width="33%">
