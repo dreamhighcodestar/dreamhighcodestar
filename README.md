@@ -36,7 +36,7 @@
       <img src="https://avatars.githubusercontent.com/u/28507035?s=48&v=4" width="48" height="48" alt="NestJS" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
       <img src="https://avatars.githubusercontent.com/u/958072?s=48&v=4" width="48" height="48"  alt="Laravel" />
-      <img src="https://github.com/expressjs.png?size=40" width="48" height="48" alt="Express" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" />
 </div>
 
 </td><td valign="top" width="33%">
