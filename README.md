@@ -8,11 +8,11 @@
   <img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" >
 </div>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dreamhighcodestar&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dreamhighcodestar&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dreamhighcodestar&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dreamhighcodestar&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dreamhighcodestar&theme=github_dark)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dreamhighcodestar&theme=nord_dark) -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dreamhighcodestar&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dreamhighcodestar&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dreamhighcodestar&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dreamhighcodestar&theme=nord_dark)
 
 ## 🛠️ Languages and Tools
 <table><tr><td valign="top" width="33%">
@@ -26,7 +26,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="48" height="48" alt="Angular" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="48" height="48" alt="Nuxt.js" />
-      <img src="https://commons.wikimedia.org/wiki/File:Tailwind_CSS_Logo.svg" width="48" height="48" alt="Tailwind CSS" />
+      <img src="https://github.com/tailwindlabs.png?size=40" width="48" height="48" alt="Tailwind CSS" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" height="48" alt="Sass" />
       <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="48" height="48" alt="Styled Components" />
 </div>
@@ -38,9 +38,9 @@
 
 <div align="center">  
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="48" height="48" alt="NestJS" />
+      <img src="https://avatars.githubusercontent.com/u/28507035?s=48&v=4" width="48" height="48" alt="NestJS" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="48" height="48"  alt="Laravel" />
+      <img src="https://avatars.githubusercontent.com/u/958072?s=48&v=4" width="48" height="48"  alt="Laravel" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" />
 </div>
 
