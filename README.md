@@ -1,5 +1,5 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9FFF&center=true&vCenter=true&lines=Full+Stack+Developer;AI+%26+Automation+Specialist;CMS+%26+E-Commerce+Expert;Database+Architect" alt="Typing SVG" />
-## Achievements List [![](https://cdn3.iconfinder.com/data/icons/start-up-4/44/award-64.png?logo=vercel&logoColor=white)](#)[![](https://cdn3.iconfinder.com/data/icons/start-up-4/44/award-64.png?logo=vercel&logoColor=white)](#)[![](https://cdn3.iconfinder.com/data/icons/start-up-4/44/award-64.png?logo=vercel&logoColor=white)](#)
+### 🎨 Achievements List
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png" alt="Quickdraw" width="60">
@@ -13,6 +13,7 @@
     <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/Open-Sourcerer/PNG/OpenSourcerer.png" alt="Open Sourcerer" width="60">
 </div>
 <img src="https://github.com/Upwork-Job32/Renan-fullstack.readme/blob/main/image/ai.webp" />
+
 <table><tr><td valign="top" width="33%">
 
 ### 🎨 Frontend Development
@@ -99,6 +100,7 @@
 
 
 ## 🚀 Let's Build Something Amazing Together!
+
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://https://dreamhighportfolio.netlify.app)
 [![Telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/#@dream_high_coder)
