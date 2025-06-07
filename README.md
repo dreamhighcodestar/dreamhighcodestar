@@ -1,5 +1,6 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9FFF&center=true&vCenter=true&lines=Full+Stack+Developer;AI+%26+Automation+Specialist;CMS+%26+E-Commerce+Expert;Database+Architect" alt="Typing SVG" />
-<img src="https://github.com/Upwork-Job32/Renan-fullstack.readme/blob/main/image/ai.webp" />
+<div align="center">  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9FFF&center=true&vCenter=true&lines=Full+Stack+Developer;AI+%26+Automation+Specialist;CMS+%26+E-Commerce+Expert;Database+Architect" alt="Typing SVG" />
+  <img src="https://github.com/Upwork-Job32/Renan-fullstack.readme/blob/main/image/ai.webp" />
 
 ## 🏆 My Achievement
 
@@ -102,12 +103,10 @@
 
 ## 🚀 Let's Build Something Amazing Together!
 
-<div align="center">  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://https://dreamhighportfolio.netlify.app)
 [![Telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/#@dream_high_coder)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-100000?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+380668488255)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dreamableai@gmail.com)
-</div>
 
 <div align="center">
   <img 
