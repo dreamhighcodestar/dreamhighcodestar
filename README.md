@@ -3,7 +3,7 @@
   <img src="https://github.com/monkey531/assets/blob/main/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif" width="24px" align="right"/>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Full%20Stack%20Engineer;CMS%20and%20E-Commerce%20Expert;AI%20and%20Automation%20Specialist;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://https://dreamhighportfolio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dreamhighportfolio.netlify.app)
 [![Telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/#@dream_high_coder)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-100000?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+380668488255)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dreamableai@gmail.com)
@@ -111,13 +111,11 @@
 
 </td></tr></table>  
 
-<div align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=dreamhighcodestar&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20Across%20All%20Repositories&bg_color=ffffff&color=000000&line=3e8ddd&point=1abc9c" 
-    width="100%" 
-    alt="GitHub activity graph"
-  />
-</div>
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=dreamhighcodestar&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20Across%20All%20Repositories&bg_color=ffffff&color=000000&line=3e8ddd&point=1abc9c" 
+  width="100%" 
+  alt="GitHub activity graph"
+/>
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dreamhighcodestar&theme=nord_dark) -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dreamhighcodestar&theme=github" width="49%" />
