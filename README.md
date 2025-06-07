@@ -1,6 +1,6 @@
 <div align="center">  
   <p align="center">
-    <a href="https://github.com/monte1s"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Python%20Engineer;Blockchain%20developer;Web%20and%20mobile%20master;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+    <a href="https://github.com/monte1s"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20FullStack%20Engineer;CMS%20&%20E-Commerce%20Expert;AI%20&%20Automation%20Specialist;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
       <h1>
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=6d0f99&center=true&vCenter=true&width=435&lines=Hey,+welcome!;I'm+brightdev124..;This+is+my+Github..;" alt="Typing SVG"/>
