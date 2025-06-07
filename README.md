@@ -3,7 +3,12 @@
   <img src="https://github.com/monkey531/assets/blob/main/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif" width="24px" align="right"/>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Full%20Stack%20Engineer;CMS%20and%20E-Commerce%20Expert;AI%20and%20Automation%20Specialist;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
 
-  <img src="https://github.com/Upwork-Job32/Renan-fullstack.readme/blob/main/image/ai.webp" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://https://dreamhighportfolio.netlify.app)
+[![Telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/#@dream_high_coder)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-100000?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+380668488255)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dreamableai@gmail.com)
+  
+<img src="https://github.com/Upwork-Job32/Renan-fullstack.readme/blob/main/image/ai.webp" />
 
 ## 🏆 My Achievement
 
@@ -106,10 +111,7 @@
 
 ## 🚀 Let's Build Something Amazing Together!
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://https://dreamhighportfolio.netlify.app)
-[![Telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/#@dream_high_coder)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-100000?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+380668488255)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dreamableai@gmail.com)
+
 
 <div align="center">
   <img 
