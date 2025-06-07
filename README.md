@@ -3,7 +3,9 @@
   <img src="https://github.com/monkey531/assets/blob/main/274605487-3325b60b-6565-45da-ab3e-9d31341c1b5b.gif" width="24px" align="right"/>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Full%20Stack%20Engineer;CMS%20and%20E-Commerce%20Expert;AI%20and%20Automation%20Specialist;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
 
-<p align="left" 🤝 Let's build something together!</p>
+<div align="left">
+  
+## 🤝 Let's build something together!
 
 <div align="center">
   
