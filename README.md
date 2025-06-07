@@ -10,8 +10,6 @@
   
 <img src="https://github.com/Upwork-Job32/Renan-fullstack.readme/blob/main/image/ai.webp" height="300px" width="100%" />
 
-## 🏆 My Achievement
-
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png" alt="Quickdraw" width="60">
     <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone1.png" alt="Starstruck" width="60">
@@ -107,11 +105,6 @@
   </div>
 
 </td></tr></table>  
-
-
-## 🚀 Let's Build Something Amazing Together!
-
-
 
 <div align="center">
   <img 
