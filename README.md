@@ -119,9 +119,9 @@
 
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dreamhighcodestar&theme=nord_dark) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dreamhighcodestar&theme=vue" width="50%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dreamhighcodestar&theme=vue" width="50%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dreamhighcodestar&theme=vue" width="50%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dreamhighcodestar&theme=vue" width="50%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dreamhighcodestar&theme=vue" width="49.5%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dreamhighcodestar&theme=vue" width="49.5%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dreamhighcodestar&theme=vue" width="49.5%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dreamhighcodestar&theme=vue" width="49.5%" />
 
 
