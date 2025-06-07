@@ -1,23 +1,23 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9FFF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+%26+Automation+Specialist;CMS+%26+E-Commerce+Expert;Database+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9FFF&center=true&vCenter=true&lines=Full+Stack+Developer;AI+%26+Automation+Specialist;CMS+%26+E-Commerce+Expert;Database+Architect" alt="Typing SVG" />
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" >
+  <img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg  width="100%"" >
 </div>
 
 <div align="center">
-<a href="https://github.com/dreamhighcodestar?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=dreamhighcodestar&theme=solarized&no-frame=true&column=6&row=1"  width="96%" alt="@dreamhighcodestar's trophy stats"/></a>
+<a href="https://github.com/dreamhighcodestar?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=dreamhighcodestar&theme=solarized&no-frame=true&column=6&row=1" width="100%" alt="@dreamhighcodestar's trophy stats"/></a>
 </div>
 <div align="center">
     <a href="https://github.com/dreamhighcodestar">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=dreamhighcodestar&theme=solarized&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=dreamhighcodestar&theme=solarized&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="activity graph">
     </a>
 </div>
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dreamhighcodestar&theme=nord_dark) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dreamhighcodestar&theme=solarized" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dreamhighcodestar&theme=solarized" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dreamhighcodestar&theme=solarized" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dreamhighcodestar&theme=solarized" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dreamhighcodestar&theme=solarized" width="50%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dreamhighcodestar&theme=solarized" width="50%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dreamhighcodestar&theme=solarized" width="50%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dreamhighcodestar&theme=solarized" width="50%" />
 
 <table><tr><td valign="top" width="33%">
 
