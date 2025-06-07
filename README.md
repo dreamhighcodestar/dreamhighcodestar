@@ -5,15 +5,14 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/dreamhighcodestar?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=dreamhighcodestar&theme=github&no-frame=true&column=6&row=1" width="100%" alt="@dreamhighcodestar's trophy stats"/></a>
-</div>
-<div align="center" style="border: 2px solid #3e8ddd; border-radius: 10px; padding: 10px; background-color: #ffffff;">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=dreamhighcodestar&hide_border=true&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20Across%20All%20Repositories&bg_color=ffffff&color=000000&line=3e8ddd&point=1abc9c" 
     width="100%" 
     alt="GitHub activity graph"
+    style="border: 2px solid #3e8ddd; border-radius: 10px;"
   />
 </div>
+
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dreamhighcodestar&theme=nord_dark) -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dreamhighcodestar&theme=github" width="49%" />
