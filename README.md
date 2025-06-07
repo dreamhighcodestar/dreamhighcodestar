@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/dreamhighcodestar?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=dreamhighcodestar&theme=dracula&no-frame=true&column=6&row=1"  width="84%" alt="@dreamhighcodestar's trophy stats"/></a>
+<a href="https://github.com/dreamhighcodestar?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=dreamhighcodestar&theme=dracula&no-frame=true&column=6&row=1"  width="100%" alt="@dreamhighcodestar's trophy stats"/></a>
 </div>
 <div align="center">
     <a href="https://github.com/dreamhighcodestar">
