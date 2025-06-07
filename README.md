@@ -1,15 +1,23 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9FFF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+%26+Automation+Specialist;CMS+%26+E-Commerce+Expert;Database+Architect" alt="Typing SVG" />
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" >
 </div>
 
+<div align="center">
+<a href="https://github.com/dreamhighcodestar?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=dreamhighcodestar&theme=dracula&no-frame=true&column=6&row=1"  width="84%" alt="@dreamhighcodestar's trophy stats"/></a>
+</div>
+<div align="center">
+    <a href="https://github.com/dreamhighcodestar">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=dreamhighcodestar&theme=dracula&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="84%" alt="activity graph">
+    </a>
+</div>
+
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dreamhighcodestar&theme=nord_dark) -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dreamhighcodestar&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dreamhighcodestar&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dreamhighcodestar&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dreamhighcodestar&theme=nord_dark)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dreamhighcodestar&theme=dracula" width="42%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dreamhighcodestar&theme=dracula" width="42%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dreamhighcodestar&theme=dracula" width="42%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dreamhighcodestar&theme=dracula" width="42%" />
 
 <table><tr><td valign="top" width="33%">
 
@@ -25,7 +33,6 @@
     <img src="https://github.com/tailwindlabs.png?size=40" width="48" height="48" alt="Tailwind CSS" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" height="48" alt="Sass" />
   </div>
-
 
 </td><td valign="top" width="33%">
 
@@ -66,7 +73,6 @@
     <img src="https://github.com/bigcommerce.png?size=40" width="48" height="48" alt="BigCommerce" />
   </div>
 
-
 </td><td valign="top" width="33%">
 
 ### 🤖 AI & Automation
@@ -102,5 +108,5 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://https://dreamhighportfolio.netlify.app)
 [![Telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/#@dream_high_coder)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dreamhighcodestar)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-100000?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+380668488255)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dreamableai@gmail.com)
