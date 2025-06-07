@@ -5,19 +5,19 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/dreamhighcodestar?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=dreamhighcodestar&theme=dracula&no-frame=true&column=6&row=1"  width="100%" alt="@dreamhighcodestar's trophy stats"/></a>
+<a href="https://github.com/dreamhighcodestar?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=dreamhighcodestar&theme=dracula&no-frame=true&column=6&row=1"  width="96%" alt="@dreamhighcodestar's trophy stats"/></a>
 </div>
 <div align="center">
     <a href="https://github.com/dreamhighcodestar">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=dreamhighcodestar&theme=dracula&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="84%" alt="activity graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=dreamhighcodestar&theme=dracula&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
     </a>
 </div>
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dreamhighcodestar&theme=nord_dark) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dreamhighcodestar&theme=dracula" width="42%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dreamhighcodestar&theme=dracula" width="42%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dreamhighcodestar&theme=dracula" width="42%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dreamhighcodestar&theme=dracula" width="42%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dreamhighcodestar&theme=dracula" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dreamhighcodestar&theme=dracula" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dreamhighcodestar&theme=dracula" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dreamhighcodestar&theme=dracula" width="48%" />
 
 <table><tr><td valign="top" width="33%">
 
