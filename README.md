@@ -111,12 +111,7 @@
 
 </td></tr></table>  
 
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=dreamhighcodestar&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20Across%20All%20Repositories&bg_color=f0faff&color=007acc&line=00c2cb&point=004aad&area_color=a0eaff&title_color=003366&text_color=333333" 
-  width="100%" 
-  alt="GitHub activity graph"
-/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dreamhighcodestar&theme=vue&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" border-radius="5%" alt="activity graph">
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dreamhighcodestar&theme=nord_dark) -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dreamhighcodestar&theme=vue" width="49.5%" />
