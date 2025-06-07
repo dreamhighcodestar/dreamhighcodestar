@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9FFF&center=true&vCenter=true&lines=Full+Stack+Developer;AI+%26+Automation+Specialist;CMS+%26+E-Commerce+Expert;Database+Architect" alt="Typing SVG" />
 
-## 🚀 My Achievement
+## 🏆 My Achievement
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png" alt="Quickdraw" width="60">
